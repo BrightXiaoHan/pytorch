@@ -51,3 +51,5 @@ test/data/linear.pt
 # OSX dir files
 .DS_Store
 
+# editor
+.vscode
